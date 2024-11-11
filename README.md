@@ -15,6 +15,25 @@ In 2024, the private military sector continues to be dominated by several key pl
 Another notable firm is DynCorp International, which specializes in aviation support, intelligence training, and logistics, often collaborating with the U.S. government on international missions. Unity Resources Group, an Australian-owned company, has expanded its operations beyond the Middle East, offering security services in Africa and Asia, including protecting embassies and facilitating safe elections. These companies exemplify the diverse capabilities and strategic importance of private military contractors in contemporary global security dynamics.
 
 #
+### Example Business Model
+
+Business Name: Northern Vanguard Security Solutions Inc.
+
+Business Model: Private Military Company (PMC)
+
+Northern Vanguard Security Solutions Inc. specializes in providing private military and security services to clients within Canada and internationally. The company operates within strict legal and ethical guidelines, focusing on high-quality services for governmental, corporate, and private clients.
+
+The company offers a range of services including security services, training programs, logistical support, and consulting. Security services include VIP protection, corporate facility security, and event security. Training services encompass law enforcement and military training programs, crisis management and risk mitigation workshops, as well as tactical and operational skill development. Logistical support involves supply chain protection and the secure transport of high-value goods. Consulting services cover risk assessment and threat analysis, emergency response planning, and strategic security advisory.
+
+Target clients include the Canadian government for non-combat roles, international organizations operating in compliant regions, private corporations with high-risk operations, and NGOs requiring security in volatile areas.
+
+The company operates in full compliance with Canadian laws, including the Private Security and Investigative Services Act, as well as federal and provincial regulations. For international operations, it adheres to the Canadian Export and Import Permits Act (EIPA) and ensures alignment with international human rights standards and UN conventions. Comprehensive insurance is maintained to cover liability and operational risks.
+
+Revenue is generated through service contracts, which can be short-term or long-term agreements, training fees for sessions or customized programs, and consulting fees based on retainer agreements or specific projects.
+
+The company is headquartered in Toronto, Ontario, with regional offices in Calgary, Vancouver, and Montreal. Its operational structure is divided into divisions for Security Operations, Training and Consulting, and Logistics and Supply Chain. Key roles within the organization include the CEO, who provides overall leadership, an Operations Manager coordinating field activities, a Training Director managing training programs, a Compliance Officer ensuring adherence to legal and ethical standards, and Field Operators comprising security personnel, trainers, and consultants.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
