@@ -11,6 +11,16 @@ Beyond operational and legal considerations, "Private Military" assists in the d
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Military](https://github.com/sourceduty/Military)
+<br>
+[Military Intelligence](https://github.com/sourceduty/Military_Intelligence)
+<br>
+[Military Chemistry](https://github.com/sourceduty/Military_Chemistry)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Tactical Vehicle Strategy](https://github.com/sourceduty/Tactical_Vehicle_Strategy)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
